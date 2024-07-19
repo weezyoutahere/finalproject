@@ -21,4 +21,4 @@ I used an Image trainer that could tell a picture of a dog or a wolf. It could h
 5. run the code to train the model. 
 6. Once the model is trained, input your test image and it will give you a result if it is a dog or wolf. 
 
-[View a video explanation here](video link)
+[View a video explanation here](https://youtu.be/4EJyRNTox9Q)
